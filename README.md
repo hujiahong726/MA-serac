@@ -1,7 +1,7 @@
 ## For NYU researchers:
 1. Change the def src() function in utils.py so that you use your own path.
 2. Modify the path to your own in the .sbatch file (if you want to queue your job on HPC).
-3. As commented below, download the data into a zip, upload it to the cloud server and unzip it.
+3. As commented below, download the data into a zip, upload to cloud and unzip to use.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Semi-Parametric Editing with a Retrieval-Augmented Counterfactual Model
 
