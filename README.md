@@ -51,3 +51,9 @@ If this repository is useful for your own research, you can cite our work with t
         url={https://arxiv.org/pdf/2206.06520.pdf},
         year={2022},
     }  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Additionally
+1. Change the def src() function in utils.py to your own path.
+2. Modify the path in the .sbatch file.
+3. As commented above, download the data into a zip, upload it to the cloud server and unzip it.
+
