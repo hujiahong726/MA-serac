@@ -1,7 +1,7 @@
 ## For NYU researchers:
 1. Change the def src() function in utils.py to your own path.
 2. Modify the path in the .sbatch file.
-3. As commented above, download the data into a zip, upload it to the cloud server and unzip it.
+3. As commented below, download the data into a zip, upload it to the cloud server and unzip it.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Semi-Parametric Editing with a Retrieval-Augmented Counterfactual Model
 
